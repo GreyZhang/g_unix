@@ -1,0 +1,4 @@
+* UNIX操作系统
+终究还是决定看看这个OS的原理了，还是没有避开这个无底洞一般的技术系。我也不是很清楚自己会学习到什么程度，不过学习的过程肯定充满了乐趣。慢慢走，欣赏吧！
+** MIT 6.828 学习笔记
+- [[https://blog.csdn.net/grey_csdn/article/details/128782534][1601_读Dennis M. Ritchie and Ken Thompson的The UNIX TimeSharing System_Unix分时复用系统]]
