@@ -4,3 +4,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/128782534][1601_读Dennis M. Ritchie and Ken Thompson的The UNIX TimeSharing System_Unix分时复用系统]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128782712][1602_MIT 6.828试验环境搭建]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128782743][1603_MIT 6.828 “El Torito” Bootable CD-ROM Format Specification阅读]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128793648][1605_Git版本管理概念图解_git_for_computer_scientists阅读]]
