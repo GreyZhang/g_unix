@@ -8,3 +8,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/128793677][1606_PC汇编语言_简介以及8086系列的平台信息梳理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128793705][1607_PC汇编语言_汇编语言简介]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128840200][1608_PC汇编语言_first例程分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128840260][1609_PC汇编语言_汇编简介以及first例程后续]]
