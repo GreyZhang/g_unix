@@ -16,3 +16,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/128884408][1614_MIT 6.828_x86中在linux环境下访问IO映射的硬件]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128884422][1615_MIT 6.828_elf header相关知识小结]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128884434][1616_MIT 6.828 program header相关只是小结]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128884447][1617_MIT 6.828 JOS boot代码分析]]
