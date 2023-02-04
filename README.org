@@ -13,3 +13,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/128840320][1611_PC汇编语言_math例程分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128840353][1612_PC汇编语言_条件以及控制结构]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128840395][1613_PC汇编语言_位操作]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128884408][1614_MIT 6.828_x86中在linux环境下访问IO映射的硬件]]
