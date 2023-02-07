@@ -18,3 +18,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/128884434][1616_MIT 6.828 program header相关只是小结]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128884447][1617_MIT 6.828 JOS boot代码分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128924745][1618_x86汇编以及函数调用堆栈]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128924802][1619_MIT 6.828 lab1中八进制打印输出实现小结]]
