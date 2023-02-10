@@ -21,3 +21,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/128924802][1619_MIT 6.828 lab1中八进制打印输出实现小结]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128926177][1620_MIT 6.828 lab1中的堆栈监控实现与分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128926207][1621_MIT 6.828 lab1中从BootLoader到kernel启动的大概过程分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128978002][1622_MIT 6.828 lab1中mon_backtrace的实现与分析]]
