@@ -29,3 +29,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/128987112][1627_MIT 6.828 PC硬件与x86编程幻灯片资料阅读]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128987132][1628_MIT 6.828 xv6_chapter0操作系统接口]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128987153][1629_MIT_6.828_xv6_chapter1操作系统的组织]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128987168][1630_GNU的二进制分析工具nm简单使用探索]]
