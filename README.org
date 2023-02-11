@@ -25,3 +25,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/128978035][1623_MIT 6.828 在JOS中增加一条交互命令]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128978066][1624_MIT 6.828 stabs文档信息整理_上]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128987066][1625_MIT 6.828 stabs文档信息整理_下]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128987095][1626_MIT 6.828 lab1课程大纲学习过程整理]]
