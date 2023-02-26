@@ -31,3 +31,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/128987153][1629_MIT_6.828_xv6_chapter1操作系统的组织]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128987168][1630_GNU的二进制分析工具nm简单使用探索]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129131637][1631_MIT 6.828 lab1 HW的部分尝试与总结]]
+- [[https://blog.csdn.net/grey_csdn/article/details/129229910][1632_x86中几种地址概念的理解]]
