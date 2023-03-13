@@ -40,3 +40,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/129461770][1639_perror的函数功能以及简单测试]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129461811][1640_MIT 6.828 fork函数的功能以及相关代码分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129461829][1641_strchr函数的功能分析以及peek功能实现分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/129506934][1642_MIT 6.828 shell例程中gettoken函数的实现分析]]
