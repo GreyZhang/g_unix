@@ -46,3 +46,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/129656707][1645_MIT 6,828 shell例程中parseline以及parsepipe的实现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129656754][1646_MIT 6.828 exec函数的简单总结]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129659896][1647_MIT 6.828 strcat函数的简单总结]]
+- [[https://blog.csdn.net/grey_csdn/article/details/129696564][1648_MIT 6.828 shell例程中调用系统命令的实现]]
