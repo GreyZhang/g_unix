@@ -50,3 +50,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/129770949][1650_MIT 6.828 open函数的简单梳理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129770980][1651_MIT 6.828 dup函数的简单梳理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129770997][1652_MIT 6.828 shell例程重定向的实现分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/129771094][1654_MIT 6.828 JOS entry.S实现分析]]
