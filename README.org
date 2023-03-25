@@ -54,3 +54,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/129771119][1655_MIT 6.828 JOS存储分页映射的实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129771163][1656_MIT 6.828 JOS i386_init的实现分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129771196][1657_MIT 6.828 JOS memmap以及一些存储划分定义的解读-第一部分]]
+- [[https://blog.csdn.net/grey_csdn/article/details/129771215][1658_MIT 6.828 JOS memmap以及一些存储划分定义的解读-第二部分]]
