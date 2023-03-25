@@ -49,3 +49,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/129696564][1648_MIT 6.828 shell例程中调用系统命令的实现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129770949][1650_MIT 6.828 open函数的简单梳理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129770980][1651_MIT 6.828 dup函数的简单梳理]]
+- [[https://blog.csdn.net/grey_csdn/article/details/129770997][1652_MIT 6.828 shell例程重定向的实现分析]]
