@@ -56,3 +56,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/129771196][1657_MIT 6.828 JOS memmap以及一些存储划分定义的解读-第一部分]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129771215][1658_MIT 6.828 JOS memmap以及一些存储划分定义的解读-第二部分]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129771286][1659_MIT 6.828 JOS存储初始化中的内核虚拟地址到物理地址的映射]]
+- [[https://blog.csdn.net/grey_csdn/article/details/129782755][1660_MIT 6.828 JOS初始化boot_alloc的初步实现]]
