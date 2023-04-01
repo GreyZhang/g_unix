@@ -58,3 +58,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/129771286][1659_MIT 6.828 JOS存储初始化中的内核虚拟地址到物理地址的映射]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129782755][1660_MIT 6.828 JOS初始化boot_alloc的初步实现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129902442][1661_MIT 6.868 JOS page_init实现的初步尝试]]
+- [[https://blog.csdn.net/grey_csdn/article/details/129902492][1662_MIT 6.828 JOS check_page_free_list实现分析以及boot_alloc问题修复]]
