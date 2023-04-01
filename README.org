@@ -59,3 +59,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/129782755][1660_MIT 6.828 JOS初始化boot_alloc的初步实现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129902442][1661_MIT 6.868 JOS page_init实现的初步尝试]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129902492][1662_MIT 6.828 JOS check_page_free_list实现分析以及boot_alloc问题修复]]
+- [[https://blog.csdn.net/grey_csdn/article/details/129902518][1663_MIT 6.828 JOS页面的分配与回收]]
