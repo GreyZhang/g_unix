@@ -64,3 +64,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/129902618][1665_MIT 6.828 JOS虚拟存储的设置]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129907388][1666_MIT 6.828 JOS隔离机制的大纲]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129907423][1667_MIT 6.828 xv6 book rev11中文翻译第二章节]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130021177][1668_MIT 6.828 xv6代码中虚拟存储的配置实现分析]]
