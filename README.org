@@ -68,3 +68,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/130021278][1669_MIT 6.828 xv6代码的获取以及编译启动]]
 - [[https://blog.csdn.net/grey_csdn/article/details/129966819][1670_MIT 6.828 xv6中增加系统调用的实现与分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130037948][1672_MIT 6.828 xv6中如何通过构建环境让系统中增加一个可执行调用文件]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130037973][1673_MIT 6.828 Homework xv6 lazy page allocation要求翻译]]
