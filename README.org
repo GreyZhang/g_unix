@@ -72,3 +72,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/130068550][1674_MIT 6.828 xv6延迟页面分配的实现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130074024][1675_MIT 6.828 使用虚拟存储的讲义整理分析]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130097925][1676_MIT 6.828 xv6中的CPU alarm_资料翻译整理]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130121968][1677_MIT 6.828 xv6中增加CPU alarm]]
