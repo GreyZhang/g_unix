@@ -74,3 +74,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/130097925][1676_MIT 6.828 xv6中的CPU alarm_资料翻译整理]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130121968][1677_MIT 6.828 xv6中增加CPU alarm]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131021334][1730_Linux_UNIX设计思想小感]]
+- [[https://blog.csdn.net/grey_csdn/article/details/133203385][1789_MIT 6.828 实验室3：用户环境要求翻译]]
